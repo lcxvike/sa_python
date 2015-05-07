@@ -1,0 +1,7 @@
+name: leicx
+sex: Male
+title: IT
+manager:
+  touch:
+    ip_test: 172.24.115.254
+    ip_live: 10.87.15.254
