@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<bookstore>
+
+<book category="cooking">
+  <title title="Everyday Italian"/> 
+  <author author="Giada De Laurentiis"/> 
+  <year year="2005"/> 
+</book>
+
+</bookstore>
